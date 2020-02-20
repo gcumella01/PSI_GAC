@@ -1,0 +1,14 @@
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.csprojAssemblyReference.cache
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\MainWindow.g.cs
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\App.g.cs
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2_MarkupCompile.cache
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2_MarkupCompile.lref
+E:\PSI_GAC_Project2\PSI_GAC_Project2\bin\Debug\PSI_GAC_Project2.exe.config
+E:\PSI_GAC_Project2\PSI_GAC_Project2\bin\Debug\PSI_GAC_Project2.exe
+E:\PSI_GAC_Project2\PSI_GAC_Project2\bin\Debug\PSI_GAC_Project2.pdb
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\MainWindow.baml
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.g.resources
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.Properties.Resources.resources
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.csproj.GenerateResource.cache
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.exe
+E:\PSI_GAC_Project2\PSI_GAC_Project2\obj\Debug\PSI_GAC_Project2.pdb
